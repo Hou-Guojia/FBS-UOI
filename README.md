@@ -9,8 +9,8 @@
 
 3. Usage:
 
-   (1) Put the images into the root directory.
-
+   (1) Put the images into the "Images" directory.
+   
    (2) Please run demo.m file to see the result.
 
    For any questions, please contact hgjouc@126.com.
